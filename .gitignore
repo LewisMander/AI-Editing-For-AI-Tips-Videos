@@ -1,0 +1,15 @@
+# Video inputs and renders
+*.mp4
+*.mov
+*.mkv
+*.webm
+outputs/
+renders/
+
+# Project dependencies and local state
+node_modules/
+.env
+.env.*
+.DS_Store
+Thumbs.db
+

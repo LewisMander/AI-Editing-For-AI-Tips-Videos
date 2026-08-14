@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI Tips Editing"
+  short_description: "Polish AI screen-recording tip videos"
+  default_prompt: "Use $ai-tips-editing to turn this raw screen recording into a clear, polished AI-tip video."
